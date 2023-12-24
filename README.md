@@ -4,7 +4,7 @@ https://www.coursera.org/learn/build-a-computer/
 
 ### Part 1
 
-- [ ] Week 1
+- [x] Week 1
 - [ ] Week 2
 - [ ] Week 3
 - [ ] Week 4
@@ -21,7 +21,7 @@ Not available yet
 
 The Elements of Computing Systems (2005)
 
-- [ ] Chapter 1
+- [x] Chapter 1
 - [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
